@@ -15,11 +15,12 @@
 
 #### AREAS OF EXPERIENCE | Below
 -----|-----
-Remote Sensing/Geospatial Applications | LiDAR Product Creation
-UAV Photogrammetry | Global Forest Sector/Wood Markets
+Remote Sensing | Geospatial Applications
+LiDAR Product Creation | UAV Photogrammetry
+Global Forest Sector | Wood Markets
 Timber Harvesting Operations and Logistics | Silviculture Prescriptions
-HR Recruitment and Onboarding | Permit/Visa-Agency Approval Assistance
-International Operations | Social Media Marketing/Content Publishing
+HR Recruitment and Onboarding | Permit and Visa-Agency Approval Assistance
+International Operations | Social Media Marketing and Content Publishing
 
 #### EDUCATION AND TRAINING
 

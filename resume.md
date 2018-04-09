@@ -13,8 +13,7 @@
 
   \*\*\*A driven, highly organized workstyle with proven success in streamlining efficiency of individual and team workflows.
 
-#### AREAS OF EXPERIENCE
- | 
+#### AREAS OF EXPERIENCE |  
 -----|-----
 Remote Sensing/Geospatial Applications | LiDAR Product Creation
 UAV Photogrammetry | Global Forest Sector/Wood Markets

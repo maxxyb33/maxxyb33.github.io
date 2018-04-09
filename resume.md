@@ -1,18 +1,17 @@
 #### PROFILE OF Max Boath
-##### (215) 266-4114
 ##### 3605 SW Deon Drive
 ##### Corvallis, OR 97333 USA
 ##### max.boath@gmail.com
-
+##### (215) 266-4114
 
 
 #### HIGHLIGHTS OF QUALIFICATIONS
 
-* \*\*\*Experience using advanced remote-sensing technologies and GIS tool-suites to create and analyze cartographic maps, topographic simulations, and LiDAR point clouds, with strong ability to communicate technical geospatial information.
+  \*\*\*Experience using advanced remote-sensing technologies and GIS tool-suites to create and analyze cartographic maps, topographic simulations, and LiDAR point clouds, with strong ability to communicate technical geospatial information.
 
-* \*\*\*Known for abilities in clarifying and addressing client needs, gathering and analyzing information for novel research and for possessing articulate technical writing abilities.
+  \*\*\*Known for abilities in clarifying and addressing client needs, gathering and analyzing information for novel research and for possessing articulate technical writing abilities.
 
-* \*\*\*A driven, highly organized workstyle with proven success in streamlining efficiency of individual and team workflows.
+  \*\*\*A driven, highly organized workstyle with proven success in streamlining efficiency of individual and team workflows.
 
 #### EDUCATION AND TRAINING
 
@@ -38,14 +37,13 @@
 
   Research Associate, Green Link Philadelphia, Philadelphia, PA (2011) - Conducting volunteer market research about waste management initiatives for company’s green-consultation curriculum; editing, gathering, and organizing information for booklet educating inner-city youth on sustainable agriculture and waste-disposal.
 
-  ​
 
 #### EXTRACURRICULAR/COMMUNITY INVOLVEMENT
 
-  Member of International Forestry Students’ Association (OSU Student Chapter), Society of American Foresters (OSU Student Chapter), OSU Forestry Club, OSU Chinese Club (Officer).
+* Member of International Forestry Students’ Association (OSU Student Chapter), Society of American Foresters (OSU Student Chapter), OSU Forestry Club, OSU Chinese Club (Officer).
 
-  Volunteer mudball coach for Huntsman Cancer Institute fundraiser, i9Sports youth football, and Radnor House League youth lacrosse.
+* Volunteer mudball coach for Huntsman Cancer Institute fundraiser, i9Sports youth football, and Radnor House League youth lacrosse.
 
-  Active participant of High Performance Driving, “Long Fist” kung fu, salsa dancing, outdoor recreation, oriental cooking, bass guitar (blues, rock, funk), golf, theatre, natural and cultural ecology, historical and environmental anthropology.
+* Active participant of High Performance Driving, “Long Fist” kung fu, salsa dancing, outdoor recreation, oriental cooking, bass guitar (blues, rock, funk), golf, theatre, natural and cultural ecology, historical and environmental anthropology.
 
-  Commitment to global understanding through adventure learning: China (Mainland, Taiwan, Hong Kong, Tibet), Malaysia (Peninsular, Borneo), Vietnam, Cambodia, Thailand, Japan, Korea, Kenya, Tanzania, India, Israel, Australia, New Zealand, Morocco, Spain, England, Italy, France, Scotland, Alaska, Canada, Costa Rica, Guatemala, Mexico, Chile, Peru, Panama, Colombia, Galapagos, Ecuador.
+* Commitment to global understanding through adventure learning: China (Mainland, Taiwan, Hong Kong, Tibet), Malaysia (Peninsular, Borneo), Vietnam, Cambodia, Thailand, Japan, Korea, Kenya, Tanzania, India, Israel, Australia, New Zealand, Morocco, Spain, England, Italy, France, Scotland, Alaska, Canada, Costa Rica, Guatemala, Mexico, Chile, Peru, Panama, Colombia, Galapagos, Ecuador.

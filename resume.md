@@ -42,7 +42,7 @@
 
   ​
 
-  EXTRACURRICULAR/COMMUNITY INVOLVEMENT
+  #### EXTRACURRICULAR/COMMUNITY INVOLVEMENT
 
   Member of International Forestry Students’ Association (OSU Student Chapter), Society of American Foresters (OSU Student Chapter), OSU Forestry Club, OSU Chinese Club (Officer).
 

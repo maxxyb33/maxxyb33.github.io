@@ -24,11 +24,11 @@
 
   #### INTERNATIONAL RESEARCH PROJECTS
 
-  Asociación Fauna Forever, Tambopata Amazonian Reserve, Peru (Summer 2010) - Collecting data and conducting biodiversity research at three remote sites for long-term conservation project; specializing in spatial Mammalian patterns and Herpetological dynamics; creating and maintaining “control” trails, demarcating linear and quadrant transects for identifying and recording observed and collected plant and animal specimens.
+*  Asociación Fauna Forever, Tambopata Amazonian Reserve, Peru (Summer 2010) - Collecting data and conducting biodiversity research at three remote sites for long-term conservation project; specializing in spatial Mammalian patterns and Herpetological dynamics; creating and maintaining “control” trails, demarcating linear and quadrant transects for identifying and recording observed and collected plant and animal specimens.
 
-  Fall Study Abroad, School for International Training, North Queensland, Australia (Fall 2009) - Examining relationships between the Aboriginal people and their environments through field-based investigation of rainforest, reef, and outback ecosystems; researching independent study on local attitudes towards the Estuarine Crocodile, culminating in a 50 page scientific research paper.
+*  Fall Study Abroad, School for International Training, North Queensland, Australia (Fall 2009) - Examining relationships between the Aboriginal people and their environments through field-based investigation of rainforest, reef, and outback ecosystems; researching independent study on local attitudes towards the Estuarine Crocodile, culminating in a 50 page scientific research paper.
 
-  Summer Study Abroad, International Center, Viña del Mar, and Easter Island, Chile (Summer 2008) - Exploring geographies, geologies, and natural and cultural ecologies of Rapa Nui, Vina Del Mar, Santiago, and the Atacama Desert.
+*  Summer Study Abroad, International Center, Viña del Mar, and Easter Island, Chile (Summer 2008) - Exploring geographies, geologies, and natural and cultural ecologies of Rapa Nui, Vina Del Mar, Santiago, and the Atacama Desert.
 
   ​
 

@@ -8,21 +8,20 @@
 
 #### HIGHLIGHTS OF QUALIFICATIONS
 
-* Experience using advanced remote-sensing technologies and GIS tool-suites to create and analyze cartographic maps, topographic simulations, and LiDAR point clouds, with strong ability to communicate technical geospatial information.
+* \*\*\*Experience using advanced remote-sensing technologies and GIS tool-suites to create and analyze cartographic maps, topographic simulations, and LiDAR point clouds, with strong ability to communicate technical geospatial information.
 
-* Known for abilities in clarifying and addressing client needs, gathering and analyzing information for novel research and for possessing articulate technical writing abilities.
+* \*\*\*Known for abilities in clarifying and addressing client needs, gathering and analyzing information for novel research and for possessing articulate technical writing abilities.
 
-* A driven, highly organized workstyle with proven success in streamlining efficiency of individual and team workflows.
+* \*\*\*A driven, highly organized workstyle with proven success in streamlining efficiency of individual and team workflows.
 
-  #### EDUCATION AND TRAINING
+#### EDUCATION AND TRAINING
 
   **Master of Science in Forestry, Oregon State University, Oregon (June 2018)** - Interpreting remotely-sensed soil core imagery to quantify relationship of soil structure on vegetation; recipient of Laurels Block Academic Scholarship. 3.83 GPA.
 
   **Bachelor of Arts in Environmental Studies, University of Richmond, Virginia (2011)** - Analyzing the impacts of the Interoceanic Highway on Peru’s environmental and social infrastructure. 3.06 GPA.
 
-  ​
 
-  #### INTERNATIONAL RESEARCH PROJECTS
+#### INTERNATIONAL RESEARCH PROJECTS
 
 *  Asociación Fauna Forever, Tambopata Amazonian Reserve, Peru (Summer 2010) - Collecting data and conducting biodiversity research at three remote sites for long-term conservation project; specializing in spatial Mammalian patterns and Herpetological dynamics; creating and maintaining “control” trails, demarcating linear and quadrant transects for identifying and recording observed and collected plant and animal specimens.
 
@@ -30,7 +29,6 @@
 
 *  Summer Study Abroad, International Center, Viña del Mar, and Easter Island, Chile (Summer 2008) - Exploring geographies, geologies, and natural and cultural ecologies of Rapa Nui, Vina Del Mar, Santiago, and the Atacama Desert.
 
-  ​
 
 #### EXPERIENCE
 

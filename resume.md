@@ -32,7 +32,7 @@
 
   ​
 
-  #### EXPERIENCE
+#### EXPERIENCE
 
   Foreign Recruitment Specialist and Foreign Advisor/TEFL Instructor, Shanghai Yuan Zhuo Academy, Shanghai, China (2013-2016) - Managing recruitment of foreign staff from 6+ countries; facilitating candidate entry process via Foreign Expert Permit, Z Visa, and Residence Permit applications while streamlining onboarding logistics; coordinating arrival affairs (transfers, housing, living resources) across multiple departments; organizing and maintaining roster, advising new personnel, and additional HR responsibilities; customizing daily training agenda of multi-level English curriculum for native Chinese students (aged 5-12); implementing Business English curriculum for hotel hospitality staff (demo in Phnom Penh, Cambodia).
 
@@ -42,7 +42,7 @@
 
   ​
 
-  #### EXTRACURRICULAR/COMMUNITY INVOLVEMENT
+#### EXTRACURRICULAR/COMMUNITY INVOLVEMENT
 
   Member of International Forestry Students’ Association (OSU Student Chapter), Society of American Foresters (OSU Student Chapter), OSU Forestry Club, OSU Chinese Club (Officer).
 

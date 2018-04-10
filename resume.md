@@ -60,4 +60,4 @@ __*Technical and Language Skills:*__ Windows, Mac OS; ArcGIS, QGIS, ENVI, Leica 
 
 * Commitment to global understanding through adventure learning: China (Mainland, Taiwan, Hong Kong, Tibet), Malaysia (Peninsular, Borneo), Vietnam, Cambodia, Thailand, Japan, Korea, Kenya, Tanzania, India, Israel, Australia, New Zealand, Morocco, Spain, England, Italy, France, Scotland, Alaska, Canada, Costa Rica, Guatemala, Mexico, Chile, Peru, Panama, Colombia, Galapagos, Ecuador.
 
-image
+![Max in Franz Joseph Glacier, NZ](/nz_ice.jpg)

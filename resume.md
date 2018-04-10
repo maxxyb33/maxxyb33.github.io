@@ -14,7 +14,7 @@
   \*\*\*A driven, highly organized workstyle with proven success in streamlining efficiency of individual and team workflows.
 
 #### AREAS OF EXPERIENCE
- | 
+X | X
 ----- | -----
 Remote Sensing | Geospatial Applications
 LiDAR Product Creation | UAV Photogrammetry

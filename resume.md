@@ -1,4 +1,4 @@
-#### PROFILE OF Max Boath
+### PROFILE OF [Max Boath](http://maxboath.wix.com/maxboath)
 ##### 3605 SW Deon Drive
 ##### Corvallis, OR 97333 USA
 ##### max.boath@gmail.com
@@ -22,6 +22,8 @@ Global Forest Sector | Wood Markets
 Timber Harvesting Operations and Logistics | Silviculture Prescriptions
 HR Recruitment and Onboarding | Permit and Visa-Agency Approval Assistance
 International Operations | Social Media Marketing and Content Publishing
+
+__*Technical and Language Skills:*__ Windows, Mac OS; ArcGIS, QGIS, ENVI, Leica Cyclone, [Earth Engine](https://earthengine.google.com/new_signup/), FUSION, MS Office Suite, R Studio, Mission Planner, ImageJ, MicroDicom, Travel Studio, Amadeus, Pro Tools; Mandarin (Conversational and Literate Fluency)
 
 #### EDUCATION AND TRAINING
 
@@ -57,3 +59,5 @@ International Operations | Social Media Marketing and Content Publishing
 * Active participant of High Performance Driving, “Long Fist” kung fu, salsa dancing, outdoor recreation, oriental cooking, bass guitar (blues, rock, funk), golf, theatre, natural and cultural ecology, historical and environmental anthropology.
 
 * Commitment to global understanding through adventure learning: China (Mainland, Taiwan, Hong Kong, Tibet), Malaysia (Peninsular, Borneo), Vietnam, Cambodia, Thailand, Japan, Korea, Kenya, Tanzania, India, Israel, Australia, New Zealand, Morocco, Spain, England, Italy, France, Scotland, Alaska, Canada, Costa Rica, Guatemala, Mexico, Chile, Peru, Panama, Colombia, Galapagos, Ecuador.
+
+image

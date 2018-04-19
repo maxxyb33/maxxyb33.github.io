@@ -1,0 +1,71 @@
+html, body, #map { width: 100%; height: 100%; margin: 0; background: #fff; }
+
+.legend {
+    line-height: 16px;
+    width: 140px;
+    color: #333333;
+    font-family: 'Titillium Web', sans-serif;
+    padding: 6px 8px;
+    background: white;
+    background: rgba(255,255,255,0.75);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+
+.legend i {
+    width: 16px;
+    height: 16px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.9;
+}
+
+.legend img {
+    width: 16px;
+    height: 16px;
+    margin-right: 3px;
+    float: left;
+}
+
+.legend p {
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0;
+}
+
+
+
+.alert {
+    padding: 10px;
+    background-color: #f4e200;
+    color: black;
+    font-family: 'UnifrakturMaguntia', 'Ranchers', 'Ewert', 'Elsie Swash Caps', 'Titillium Web', sans-serif;
+    font-size: 15px
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: red;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtn:hover {
+    color: black;
+}
+
+
+.leaflet-tooltip.feature-label {
+    background-color: transparent;
+    border: transparent;
+    box-shadow: none;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: 'UnifrakturMaguntia', 'Ranchers', 'Titillium Web', sans-serif;
+    text-shadow: 0 0 2px #9f0016;
+    color: rgb(255, 250, 197)
+}
